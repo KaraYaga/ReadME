@@ -1,4 +1,4 @@
 - 👋 Hello, I’m @KaraYaga
-- 🌱 I’m currently learning Game Development
 - 😄 Pronouns: she/her
+- 🌱 I’m currently learning Game Design with a focus on Narrative
 - ⚡ Favorite Game Currently: Black Heaven a Necromantic Dating Sim
